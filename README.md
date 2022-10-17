@@ -1,4 +1,5 @@
 # AI-in-Quality-Control
 
-# Tutorial
-https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
+# Tutorials
+* [Tensorflow Object Detection Tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/)
+
