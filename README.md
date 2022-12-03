@@ -8,8 +8,8 @@
 
 ## Proto types
 * [Automatic-Number-Plate-Recognition-and-EasyOCR](https://github.com/mazqoty/Automatic-Number-Plate-Recognition-and-EasyOCR)
-## See Streamlit App and Object Detection Installation
-* [Streamlit App](https://github.com/mazqoty/Tensorflow-Object-Detection-Installation-and-ANPReasyOCR-Streamlit-App)
+## Streamlit App and Object Detection Installation
+* [WebApp and Object Detection Installation with Trained Model](https://github.com/mazqoty/Tensorflow-Object-Detection-Installation-and-ANPReasyOCR-Streamlit-App)
   
  
 
